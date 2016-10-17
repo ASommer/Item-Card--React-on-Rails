@@ -7,5 +7,4 @@ Rails.application.routes.draw do
   end
 
   root to: 'site#index'
-  
 end
