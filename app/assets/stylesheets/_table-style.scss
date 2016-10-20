@@ -1,0 +1,18 @@
+body {
+}
+
+.flexrow {
+  display: flex;
+}
+
+.flex-item {
+  background-color: #CCD;
+  padding: 12px;
+
+  > h3,
+  > p {
+    margin: 0;
+    line-height: 22px;
+
+  }
+}

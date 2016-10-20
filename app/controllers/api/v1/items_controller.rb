@@ -8,7 +8,8 @@ class Api::V1::ItemsController < Api::V1::BaseController
   end
 
   def destroy
-    respond_with Item.find(params["id"])
+    # respond_with Item.find(params["id"])
+    respond_with Item.find(params[:id])
   end
 
   def update
