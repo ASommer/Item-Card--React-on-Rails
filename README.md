@@ -1,9 +1,11 @@
-# Basic CRUD Appp with Teact and Ruby on Rails
+# Basic CRUD Appp with React and Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Source:**
+Build w/ the nice and comprehensive Tutorial by [Hristo Georgiev](https://github.com/Kaizeras) :
 
-**Source:** [http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails](http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
+ [http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails](http://tutorials.pluralsight.com/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
+
+ Please check this out for any questions.
 
 
 ## System dependencies
