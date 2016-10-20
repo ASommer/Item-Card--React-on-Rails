@@ -32,6 +32,10 @@ const Body = React.createClass({
   //update items
   updateItems(item) {
     var items = this.state.items.filter((i) => {return i.id !== item.id });
+
+    // adds the changed item at the end (TODO: try a better Soulution)
+    items.push(item);
+    this.setState({items: items});
     console.log(items);
   },
 
